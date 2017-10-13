@@ -1,0 +1,15 @@
+https://github.com/ppsapkota/PCoder_Generic.git
+
+
+…or create a new repository on the command line
+echo "# PCoder_Generic" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ppsapkota/PCoder_Generic.git
+git push -u origin master
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/ppsapkota/PCoder_Generic.git
+git push -u origin master
+
